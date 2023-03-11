@@ -1,17 +1,17 @@
-#kinomeTree {
+.kinomeTree {
   position: absolute;
   width: 100%;
   height: 100%;
 }
 
-#keyContainer{
+.keyContainer{
   position: absolute;
   bottom: 0;
   height: 30%;
   width: 100%;
 }
 
-#branchKey{
+.branchKey{
     position: fixed;
     width: 100%;
     height: 100%;
